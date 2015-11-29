@@ -1,0 +1,9 @@
+#
+# fips-zlib
+#
+---
+exports:
+    header-dirs : [ 'cpgf/include'  ]
+    modules:
+        cpgf:   cpgf/build
+
